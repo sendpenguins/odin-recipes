@@ -1,0 +1,14 @@
+* {
+    font-family: "Helvetica", sans-serif;
+    text-align: center;
+}
+
+li,
+h3 {
+    text-align: left;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
